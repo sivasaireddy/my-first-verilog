@@ -5,7 +5,7 @@ module half_adder (input a,b, output sum, carry);
 
 endmodule
 
-/***********/
+/****** HALF_ADDER *****/
 
 
 module full_adder (a, b, cin, sum, carry);
